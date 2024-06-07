@@ -7,6 +7,7 @@ const nextConfig = {
       loader: "akamai",
       path: "",
     },
+    base:"/test-app"
    // assetPrefix: "./",
   };
   
